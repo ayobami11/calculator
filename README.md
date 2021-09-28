@@ -1,3 +1,8 @@
+# Overview
+
+A simple calculator built with React.\
+[View live project]().
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
