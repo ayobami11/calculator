@@ -1,7 +1,7 @@
 # Overview
 
 A simple calculator built with React.\
-[View live project]().
+[View live project](https://ayo-calc.netlify.app/).
 
 # Getting Started with Create React App
 
