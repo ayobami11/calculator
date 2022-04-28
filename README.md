@@ -2,8 +2,6 @@
 
 A simple calculator built with React.\
 [View live project](https://ayo-calc.netlify.app/).
->>>>>>> c1f0a76a762cf7462175474fc1e3e41c79edd539
-
 ## Tools used
 - React
 - styled-components
